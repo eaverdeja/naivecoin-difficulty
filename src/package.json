@@ -1,0 +1,21 @@
+{
+  "name": "naivecoin-difficulty",
+  "version": "1.0.0",
+  "description": "Visualization for the naivecoin difficulty algorithm",
+  "keywords": ["#naivecoin", " #blockchain"],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "3.6.2",
+    "highcharts": "6.2.0",
+    "highcharts-react-official": "2.0.0",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
+    "react-scripts": "2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
